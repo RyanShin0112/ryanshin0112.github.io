@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 깃허브 포스팅을 시작하며
+title: Starting github posting
 ---
 
 개발을 수년간 해오면서 내가 가장 게을렀던 부분은 내가 지나왔던 발자국을 제대로 남기지 않았다.
